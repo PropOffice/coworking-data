@@ -1,0 +1,42 @@
+
+
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -23.287101,
+		    114.149365                  
+                ]
+            },
+            "properties": {
+                "name": "Paperclip HK",
+                "address": "3/F, Nam Wo Hong Building, 148 Wing Lok Street, Sheung Wan, Hong Kong",
+		"url": "http://www.papercliphk.com/",
+		"phone": "+852 3586 2888",
+		"twitter": "@papercliphk"
+            }
+	},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.287101,
+                    114.149365                  
+                ]
+            },
+            "properties": {
+                "name": "Paperclip HK",
+                "address": "3/F, Nam Wo Hong Building, 148 Wing Lok Street, Sheung Wan, Hong Kong",
+                "url": "http://www.papercliphk.com/",
+                "phone": "+852 3586 2888",
+                "twitter": "@papercliphk"
+            }
+        }
+
+    ]
+}
