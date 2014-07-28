@@ -25,8 +25,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -22.287101,
-                    114.149365                  
+                    114.149365, 
+                    22.287101
                 ]
             },
             "properties": {
